@@ -4,7 +4,10 @@ In this project, we implemented 2 PersonalRank Recommenders, one with social net
 In the meantime, we implemented 3 basic recommenders as our baseline: Content-based RS, Iterm-based CF RS and User-based CF RS.
 
 ## Features
-this project implemented the following featrues
+this project implemented the following featrues.
+We put every section in separate notebook in data/notebook directory.
+you can run in this order.
+
 * Section 1: Download and Split data set
 * Section 2: Tag Clustering
     * Section 2.1: Tag preprocessing
@@ -39,10 +42,6 @@ https://files.grouplens.org/datasets/hetrec2011/hetrec2011-lastfm-2k.zip
 or download from data/dataset.
 we also contain a code to download and unzip automatically.
 
-
-the code is organized in notebook directory.
-In this directory, we put all the code in all-in-one.ipynb, you can just run this notebook.
-We put individual code part in other notebooks.
 
 - notebook
   - all-in-one.ipynb
