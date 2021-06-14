@@ -44,8 +44,12 @@ we also contain a code to download and unzip automatically.
 
 
 - notebook
-  - all-in-one.ipynb
-  - separately sorted notebooks 
+  - 1_splitting_dataset.ipynb
+  - 2_tag_clustering.ipynb
+  - 3_personalrank.ipynb
+  - 4_user_item_basedCF.ipynb
+  - 5_content_based_rank.ipynb
+  - 6_evalution.ipynb
 - data
   - dataset
   - split
@@ -53,5 +57,5 @@ we also contain a code to download and unzip automatically.
   - interim
   - external
   - result
--readme.md
+- readme.md
 
