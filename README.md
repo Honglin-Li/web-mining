@@ -45,14 +45,14 @@ In this directory, we put all the code in all-in-one.ipynb, you can just run thi
 We put individual code part in other notebooks.
 
 - notebook
- - all-in-one.ipynb
- - separately sorted notebooks 
+  - all-in-one.ipynb
+  - separately sorted notebooks 
 - data
- - dataset
- - split
- - tags
- - interim
- - external
- - result
+  - dataset
+  - split
+  - tags
+  - interim
+  - external
+  - result
 -readme.md
 
